@@ -1,0 +1,97 @@
+annotated-types==0.7.0
+appnope @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/appnope_1699320997592/work
+asttokens @ file:///opt/conda/conda-bld/asttokens_1646925590279/work
+attrs==24.2.0
+catboost==1.2.5
+category-encoders==2.6.3
+certifi==2024.7.4
+charset-normalizer==3.3.2
+comm @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_aef2nlxc2o/croot/comm_1709322866518/work
+contourpy==1.2.1
+cycler==0.12.1
+dacite==1.8.1
+debugpy @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/debugpy_1699267934478/work
+decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
+eli5==0.13.0
+executing @ file:///opt/conda/conda-bld/executing_1646925071911/work
+fastjsonschema==2.20.0
+fonttools==4.53.1
+graphviz==0.20.3
+htmlmin==0.1.12
+idna==3.7
+ImageHash==4.3.1
+imbalanced-learn==0.12.3
+importlib_resources==6.4.0
+ipykernel @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_02wd6dgggf/croot/ipykernel_1705933834674/work
+ipython @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_bff2xolgq1/croot/ipython_1718287985143/work
+ipython-genutils==0.2.0
+jedi @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_dc59flyfgj/croot/jedi_1721058355050/work
+Jinja2==3.1.4
+joblib==1.4.2
+jsonschema==4.23.0
+jsonschema-specifications==2023.12.1
+jupyter_client @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/jupyter_client_1701805419641/work
+jupyter_core @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_80l8bw91xp/croot/jupyter_core_1718818299834/work
+kiwisolver==1.4.5
+llvmlite==0.43.0
+MarkupSafe==2.1.5
+matplotlib==3.9.1.post1
+matplotlib-inline @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/matplotlib-inline_1699248719910/work
+missingno==0.5.2
+multimethod==1.12
+nbformat==4.2.0
+nest-asyncio @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_c44_atq5c1/croot/nest-asyncio_1708532677863/work
+networkx==3.3
+numba==0.60.0
+numpy==1.26.4
+packaging @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_af6w2d9k11/croot/packaging_1720101860461/work
+pandas==2.2.2
+pandas-profiling==3.2.0
+parso @ file:///opt/conda/conda-bld/parso_1641458642106/work
+patsy==0.5.6
+pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
+phik==0.12.4
+pillow==10.4.0
+platformdirs @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/platformdirs_1701805067573/work
+plotly==5.23.0
+prompt-toolkit @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_4d8kk9w3ed/croot/prompt-toolkit_1704404354789/work
+psutil @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/psutil_1699246686105/work
+ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
+pure-eval @ file:///opt/conda/conda-bld/pure_eval_1646925070566/work
+pydantic==2.8.2
+pydantic_core==2.20.1
+Pygments @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/pygments_1699240212223/work
+pyparsing==3.1.2
+python-dateutil @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_efk5_uakg8/croot/python-dateutil_1716495742183/work
+pytz==2024.1
+PyWavelets==1.6.0
+PyYAML==6.0.2
+pyzmq @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_c7mhasdker/croot/pyzmq_1705605099593/work
+referencing==0.35.1
+requests==2.32.3
+rpds-py==0.20.0
+scikit-learn==1.5.1
+scipy==1.13.1
+seaborn==0.13.2
+setuptools==72.1.0
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+stack-data @ file:///opt/conda/conda-bld/stack_data_1646927590127/work
+statsmodels==0.14.2
+sweetviz==2.3.1
+tabulate==0.9.0
+tangled-up-in-unicode==0.2.0
+tenacity==9.0.0
+threadpoolctl==3.5.0
+tornado @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_7e0ruwlfee/croot/tornado_1718740118099/work
+tqdm==4.66.5
+traitlets @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_f49losghmg/croot/traitlets_1718227069025/work
+typeguard==4.3.0
+typing_extensions==4.12.2
+tzdata==2024.1
+urllib3==2.2.2
+visions==0.7.6
+wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
+wheel==0.44.0
+wordcloud==1.9.3
+xgboost==2.1.1
+ydata-profiling==4.9.0
